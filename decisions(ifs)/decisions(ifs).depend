@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596136062 source:c:\users\karim\documents\c projects\decisions(ifs)\main.c
+	<stdio.h>
+	<stdlib.h>
+

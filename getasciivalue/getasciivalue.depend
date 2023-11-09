@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596128180 source:c:\users\karim\documents\c projects\getasciivalue\main.c
+	<stdio.h>
+	<stdlib.h>
+

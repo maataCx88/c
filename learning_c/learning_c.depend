@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596107789 source:c:\users\karim\documents\c projects\learning_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header1.h"
+
+1596107817 c:\users\karim\documents\c projects\learning_c\header1.h
+
